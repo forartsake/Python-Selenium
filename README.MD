@@ -1,7 +1,7 @@
 
 <h1 align="center">Python Selenium Course
 
-###H3 Several practical tasks from the [Stepik](https://stepik.org/course/575/syllabus) course.
+### Several practical tasks from the [Stepik](https://stepik.org/course/575/syllabus) course.
 
 
 
